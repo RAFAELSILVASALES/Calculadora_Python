@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora.</h1>
+<h1 align="center"> Calculadora.  <img src="https://img.shields.io/github/license/RAFAELSILVASALES/Calculadora_Python"></h1>
 
 <p align="center">  🚀 Ferramentas: Linguagem de programação Python e Tkinter</p>
 
